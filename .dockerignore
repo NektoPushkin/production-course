@@ -1,2 +1,10 @@
-node_modules
+.git
 .env
+node_modules
+.venv
+__pycache__
+*.class
+server
+app.test
+vendor
+tmp
